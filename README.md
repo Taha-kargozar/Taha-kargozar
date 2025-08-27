@@ -1,6 +1,6 @@
 ## 💫 About Me 🗿
 <h1 align="center">Hi 👋, I'm Taha kargozar</h1>
-<h3 align="center">💫 About me : the Java developer from Iran 🇮🇷</h3>
+<h3 align="center">💫 the Java developer from Iran 🇮🇷</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70202&center=true&vCenter=true&random=true&width=435&lines=Java+developer+%F0%9F%92%AB;Front-end+developer+%F0%9F%92%AB;C%2B%2B+developer+%F0%9F%92%AB" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taha-kargozar&label=Profile%20views&color=0e75b6&style=flat" alt="taha-kargozar" /> </p>
 
